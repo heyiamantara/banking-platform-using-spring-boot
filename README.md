@@ -114,7 +114,7 @@ banking-platform-using-spring-boot/
 ├── backend/
 │   ├── src/
 │   │   └── main/
-│   │       ├── java/com/phegon/phegonbank/
+│   │       ├── java/com/bharat/bharatbank/
 │   │       │   ├── account/          # Account management
 │   │       │   ├── auth_users/       # Authentication & users
 │   │       │   ├── audit_dashboard/  # Audit logs

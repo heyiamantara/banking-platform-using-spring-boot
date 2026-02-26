@@ -8,10 +8,10 @@
 		<version>4.0.0-M3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.phegon</groupId>
-	<artifactId>phegonbank</artifactId>
+	<groupId>com.bharat</groupId>
+	<artifactId>bharatbank</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>phegonbank</name>
+	<name>bharatbank</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

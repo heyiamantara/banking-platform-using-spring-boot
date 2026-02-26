@@ -141,6 +141,3 @@ banking-platform-using-spring-boot/
 - Password reset functionality
 - Secure JWT-based authentication
 
-## License
-
-[Add your license here]
